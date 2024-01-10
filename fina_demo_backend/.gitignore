@@ -1,0 +1,29 @@
+# Файлы и директории Django
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+
+# Файлы и директории Python
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+__pycache__/
+
+# Файлы и директории IDE
+.idea/
+.vscode/
+
+# Файлы окружения (venv, virtualenv, env, etc.)
+env/
+venv/
+.venv/
+
+# Другие временные и системные файлы
+.DS_Store
+*.swp
+*.log
